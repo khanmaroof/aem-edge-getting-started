@@ -203,6 +203,17 @@
          "value": ""
        }
      ]
+  },
+  {
+    "id": "aem-content-picker",
+    "fields": [
+      {
+        "component": "aem-content",
+        "name": "reference",
+        "value": "",
+        "label": "AEM Content Picker",
+        "valueType": "string"
+      }
+    ]
   }
-  
 ]
